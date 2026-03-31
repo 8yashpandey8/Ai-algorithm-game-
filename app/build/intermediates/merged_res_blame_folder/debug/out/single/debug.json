@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\drawable_tile_empty_background.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\drawable\\tile_empty_background.xml"
+    },
+    {
+        "merged": "com.example.aisearchlab.app-merged_res-46:/layout_fragment_home.xml.flat",
+        "source": "com.example.aisearchlab.app-main-48:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\menu_top_app_bar.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\menu\\top_app_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\layout_item_leaderboard.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\item_leaderboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\menu_top_app_bar_game.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\menu\\top_app_bar_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\drawable_jug_outline.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\drawable\\jug_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\drawable_grid_background.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\drawable\\grid_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\drawable_rounded_panel_error_bg.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\drawable\\rounded_panel_error_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\layout_layout_generic_game_interface.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\layout_generic_game_interface.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\layout_fragment_leaderboard.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\fragment_leaderboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\drawable_app_icon_round.png.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\drawable\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\anim_slide_in_up.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\anim\\slide_in_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\font_fredoka_bold.ttf.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\font\\fredoka_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\anim_fade_in_scale.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\anim\\fade_in_scale.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\font_fredoka_medium.ttf.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\font\\fredoka_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\drawable_tile_background.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\drawable\\tile_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\font_fredoka_regular.ttf.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\font\\fredoka_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\drawable_bg_glassmorphism.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\drawable\\bg_glassmorphism.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\layout_fragment_eight_puzzle.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\fragment_eight_puzzle.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\font_fredoka.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\font\\fredoka.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\drawable_rounded_panel_bg.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\drawable\\rounded_panel_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\drawable_app_icon.jpg.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\drawable\\app_icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\drawable_omnitrix_glow_bg.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\drawable\\omnitrix_glow_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\layout_fragment_visualizer.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\fragment_visualizer.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\layout_fragment_water_jug.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\fragment_water_jug.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\drawable_glass_jug_bg.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\drawable\\glass_jug_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\layout_dialog_win.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\dialog_win.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\layout_fragment_n_queens.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\fragment_n_queens.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\drawable_omnitrix_error_bg.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\drawable\\omnitrix_error_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-merged_res-46:\\layout_fragment_compare.xml.flat",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\fragment_compare.xml"
+    }
+]

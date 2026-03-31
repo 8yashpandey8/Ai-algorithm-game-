@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-mergeDebugResources-45:\\layout\\dialog_win.xml",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\dialog_win.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-mergeDebugResources-45:\\layout\\fragment_n_queens.xml",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\fragment_n_queens.xml"
+    },
+    {
+        "merged": "com.example.aisearchlab.app-mergeDebugResources-45:/layout/fragment_home.xml",
+        "source": "com.example.aisearchlab.app-main-48:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-mergeDebugResources-45:\\layout\\layout_generic_game_interface.xml",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\layout_generic_game_interface.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-mergeDebugResources-45:\\layout\\fragment_eight_puzzle.xml",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\fragment_eight_puzzle.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-mergeDebugResources-45:\\layout\\fragment_compare.xml",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\fragment_compare.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-mergeDebugResources-45:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-mergeDebugResources-45:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-mergeDebugResources-45:\\layout\\fragment_visualizer.xml",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\fragment_visualizer.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-mergeDebugResources-45:\\layout\\fragment_leaderboard.xml",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\fragment_leaderboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-mergeDebugResources-45:\\layout\\item_leaderboard.xml",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\item_leaderboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-mergeDebugResources-45:\\layout\\fragment_water_jug.xml",
+        "source": "C:\\Users\\KIIT0001\\.gradle\\daemon\\8.14\\com.example.aisearchlab.app-main-48:\\layout\\fragment_water_jug.xml"
+    }
+]

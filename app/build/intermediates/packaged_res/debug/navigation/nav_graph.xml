@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.aisearchlab.ui.home.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_home_to_eightPuzzle"
+            app:destination="@id/navigation_eight_puzzle" />
+        <action
+            android:id="@+id/action_home_to_waterJug"
+            app:destination="@id/navigation_water_jug" />
+        <action
+            android:id="@+id/action_home_to_nQueens"
+            app:destination="@id/navigation_n_queens" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_eight_puzzle"
+        android:name="com.example.aisearchlab.games.eightpuzzle.EightPuzzleFragment"
+        android:label="8 Puzzle"
+        tools:layout="@layout/fragment_eight_puzzle" />
+
+    <fragment
+        android:id="@+id/navigation_water_jug"
+        android:name="com.example.aisearchlab.games.waterjug.WaterJugFragment"
+        android:label="Water Jug Problem"
+        tools:layout="@layout/fragment_water_jug" />
+
+    <fragment
+        android:id="@+id/navigation_n_queens"
+        android:name="com.example.aisearchlab.games.nqueens.NQueensFragment"
+        android:label="N Queens"
+        tools:layout="@layout/fragment_n_queens" />
+
+    <fragment
+        android:id="@+id/navigation_visualizer"
+        android:name="com.example.aisearchlab.ui.visualizer.VisualizerFragment"
+        android:label="Visualizer"
+        tools:layout="@layout/fragment_visualizer" />
+
+    <fragment
+        android:id="@+id/navigation_leaderboard"
+        android:name="com.example.aisearchlab.ui.leaderboard.LeaderboardFragment"
+        android:label="Leaderboard"
+        tools:layout="@layout/fragment_leaderboard" />
+
+    <fragment
+        android:id="@+id/navigation_compare"
+        android:name="com.example.aisearchlab.ui.compare.CompareFragment"
+        android:label="Compare"
+        tools:layout="@layout/fragment_compare" />
+
+</navigation>
